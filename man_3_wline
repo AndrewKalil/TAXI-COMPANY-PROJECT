@@ -1,0 +1,18 @@
+.TH man 3 "27th  March 2020" "wline man page"
+.SH NAME
+.B wline
+
+.SH SYNOPSIS
+
+.SH DESCRIPTION
+Heelp controlling the waiting line for a taxi's company
+
+.SH OPTIONS
+
+.SH 
+no known bugs
+
+.RETURN VALUE
+
+.SH AUTHOR
+Andrew Kalil, Ronnie Barrios, Andrés Hugueth.
